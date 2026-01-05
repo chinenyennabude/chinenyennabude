@@ -1,11 +1,12 @@
 ## Hi there 👋
 
-My name is Chichi and I'm a Data Scientist / Analyst based in London Building end-to-end analytics and machine learning solutions that turn messy data into actionable business insights.
+My name is Chichi and I'm a Data Scientist / Analyst based in London focused on building end-to-end analytics and machine learning solutions that turn messy data into actionable business insights.
 
 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 📫 How to reach me: chinenyennabude@gmail.com
-- ⚡ Fun fact: I can identify the flags of every country in the world.
+ 
+- ⚡ Fun fact: I can identify the flags of every country in the world 
 <!--
 **chinenyennabude/chinenyennabude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
