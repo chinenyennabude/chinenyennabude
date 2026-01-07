@@ -1,31 +1,6 @@
-## Hi there 👋
-
-My name is Chichi and I'm a Data Scientist / Analyst based in London focused on building end-to-end analytics and machine learning solutions that turn messy data into actionable business insights.
-
-🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: chinenyennabude@gmail.com
- 
-- ⚡ Fun fact: I can identify the flags of every country in the world 
-<!--
-**chinenyennabude/chinenyennabude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 # Hi, I’m Chinenye 👋🏽  
-**Data Analyst | Insight Storyteller | Builder**
-
-I turn **complex data into clear decisions** and **numbers into stories people actually understand**.  
+**Data Scientist | Insight Storyteller based in London focused on building end-to-end analytics and machine learning solutions that turn messy data into actionable business insights.  
 I enjoy working at the intersection of **analytics, impact, and creativity**.
 
 ---
@@ -62,9 +37,11 @@ I enjoy working at the intersection of **analytics, impact, and creativity**.
 📸 Photography & creative projects  
 ✈️ Travel & visual storytelling  
 💡 Building things that blend logic and creativity  
+⚡ Fun fact: I can identify the flags of every country in the world 
 
 ---
 
 ## Let’s Connect
+📫 How to reach me: chinenyennabude@gmail.com
 💬 Open to collaborations, ideas, and interesting problems  
 ⭐ Feel free to star a repo if something helps you
