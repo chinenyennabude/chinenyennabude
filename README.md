@@ -25,9 +25,10 @@ I enjoy working at the intersection of **analytics, impact, and creativity**.
 ---
 
 ## Featured Work
-- 🔹 Customer behaviour & risk analysis  
-- 🔹 Churn prediction & explainable ML  
-- 🔹 End-to-end analytics projects (data → insight → decision)
+- Customer behaviour & risk analysis
+- Churn prediction & explainable ML
+- Global Migration Flow Prediction
+- UK_Retail_Customer_Demand_Forecasting
 
 ⬇️ Check out my pinned repositories below.
 
@@ -42,8 +43,8 @@ I enjoy working at the intersection of **analytics, impact, and creativity**.
 ---
 
 ## Let’s Connect
-- 📫 How to reach me: chinenyennabude@gmail.com
+- How to reach me: chinenyennabude@gmail.com
 - LinkedIn: https://www.linkedin.com/in/mercychinenyennabude/
-- 💬 Open to collaborations, ideas, and interesting problems  
+- Open to collaborations, ideas, and interesting problems  
 
 > *“Data is powerful — but only when it’s understood, trusted, and used responsibly.”*  
