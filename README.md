@@ -25,6 +25,7 @@ I enjoy working at the intersection of **analytics, impact, and creativity**.
 ---
 
 ## Featured Work
+- UK_Retail_Customer_Demand_Forecasting
 - Customer behaviour & risk analysis
 - Churn prediction & explainable ML
 - Global Migration Flow Prediction
