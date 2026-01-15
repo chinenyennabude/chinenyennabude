@@ -18,4 +18,11 @@ I enjoy working at the intersection of **analytics, impact, and creativity**.
 
 **Visualisation**  
 `Power BI` · `Tableau` · `Looker`
+
+---
+## Featured Work
+- UK_Retail_Customer_Demand_Forecasting
+
+⬇️ Check out my pinned repositories below.
+
 ---
