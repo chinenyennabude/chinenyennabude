@@ -8,5 +8,14 @@ I enjoy working at the intersection of **analytics, impact, and creativity**.
 - 📊 Analyse data to uncover patterns and drive action  
 - 🧠 Build models and explain *why* they work, not just *that* they work  
 - 📈 Communicate insights clearly to technical & non-technical audiences  
+---
+## Tech Stack
+**Languages & Data**  
+`Python` · `SQL` · `Excel`
 
+**Analytics & ML**  
+`Pandas` · `Scikit-learn` · `Logistic Regression` · `XGBoost` · `SHAP`
+
+**Visualisation**  
+`Power BI` · `Tableau` · `Looker`
 ---
