@@ -26,3 +26,15 @@ I enjoy working at the intersection of **analytics, impact, and creativity**.
 ⬇️ Check out my pinned repositories below.
 
 ---
+# Beyond Data
+📸 Photography & creative projects  
+✈️ Travel & visual storytelling  
+💡 Building things that blend logic and creativity  
+⚡ Fun fact: I can identify the flags of every country in the world 
+
+---
+
+## Let’s Connect
+- How to reach me: chinenyennabude@gmail.com
+- LinkedIn: https://www.linkedin.com/in/mercychinenyennabude/
+- Open to collaborations, ideas, and interesting problems  
