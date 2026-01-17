@@ -27,8 +27,7 @@ I enjoy working at the intersection of **analytics, impact, and creativity**.
 
 ---
 # Beyond Data
-📸 Photography & creative projects  
-✈️ Travel & visual storytelling  
+📸 Photography, Travel & visual storytelling  
 💡 Building things that blend logic and creativity  
 ⚡ Fun fact: I can identify the flags of every country in the world 
 
