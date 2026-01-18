@@ -34,7 +34,7 @@ I enjoy working at the intersection of **analytics, impact, and creativity**.
 ---
 
 ## Let’s Connect
-- How to reach me: chinenyennabude@gmail.com
+- Email: chinenyennabude@gmail.com
 - LinkedIn: https://www.linkedin.com/in/mercychinenyennabude/
 - Open to collaborations, ideas, and interesting problems
   
