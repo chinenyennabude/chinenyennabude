@@ -6,7 +6,7 @@ I enjoy working at the intersection of **analytics, impact, and creativity**.
 ---
 ## What I Do
 - 📊 Analyse data to uncover patterns and drive action  
-- 🧠 Build models and explain *why* they work, not just *that* they work  
+- 🧠 Build models and explain the **why** and **how** they work  
 - 📈 Communicate insights clearly to technical & non-technical audiences  
 ---
 ## Tech Stack
