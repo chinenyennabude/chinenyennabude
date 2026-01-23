@@ -21,7 +21,8 @@ I enjoy working at the intersection of **analytics, impact, and creativity**.
 
 ---
 ## Featured Work
-- UK_Retail_Customer_Demand_Forecasting
+- Retail Demand Forecasting
+- Global Migration Flow Prediction
 
 ⬇️ Check out my pinned repositories below.
 
