@@ -4,7 +4,7 @@ I'm a Data Scientist and Insight Storyteller based in London focused on building
 I enjoy working at the intersection of **analytics, impact, and creativity**.
 
 ---
-## What I Do
+## About Me
 - 📊 Analyse data to uncover patterns and drive action  
 - 🧠 Build models and explain the **why** and **how** they work  
 - 📈 Communicate insights clearly to technical & non-technical audiences  
