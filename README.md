@@ -20,8 +20,8 @@ I enjoy working at the intersection of **analytics, impact, and creativity**.
 `Power BI` · `Tableau` · `Looker`
 
 ---
-## Featured Work
-- Retail Demand Forecasting
+## Currently Developing
+- [Retail Demand Intelligence project using Python and predictive analytics to forecast customer demand, optimise stock levels, and support data-driven store decision-making.]([Retail Demand Intelligence](https://github.com/chinenyennabude/Retail-Demand-Intelligence))
 - Global Migration Flow Prediction
 
 ⬇️ Check out my pinned repositories below.
