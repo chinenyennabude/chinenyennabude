@@ -11,7 +11,7 @@ I enjoy working at the intersection of **analytics, impact, and creativity**.
 ---
 ## Tech Stack
 **Languages & Data**  
-`Python` · `SQL` · `Excel`· `R`
+`Python` · `SQL` · `Excel`
 
 **Analytics & ML**  
 `Pandas` · `Scikit-learn` · `Logistic Regression` · `XGBoost` · `SHAP`
