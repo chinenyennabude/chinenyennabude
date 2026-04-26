@@ -20,12 +20,6 @@ I enjoy working at the intersection of **analytics, impact, and creativity**.
 `Power BI` · `Tableau` · `Looker`
 
 ---
-## Currently Developing
-- **Retail Demand Intelligence** project using Python and predictive analytics to forecast customer demand, optimise stock levels, and support data-driven store decision-making.
-- Global Migration Flow Prediction
-- Predicting Customer Churn to Support Retention
-
----
 # Beyond Data
 📸 Photography, Travel & visual storytelling  
 💡 Building things that blend logic and creativity  
