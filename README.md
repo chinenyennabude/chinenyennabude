@@ -1,7 +1,7 @@
 
 ## Hi, I’m Chichi 👋🏽  
 I'm a Data Scientist/Operations Analyst based in London, focused on building end-to-end analytics and machine learning solutions that turn messy data into actionable business insights.  
-I enjoy working at the intersection of **analytics, impact, and creativity**.
+I enjoy working at the intersection of **performance analytics, impact, and creativity**.
 
 ---
 ## About Me
