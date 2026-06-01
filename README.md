@@ -30,5 +30,7 @@ I enjoy working at the intersection of **analytics, impact, and creativity**.
 ## Let’s Connect
 - Email: chinenyennabude@gmail.com
 - LinkedIn: https://www.linkedin.com/in/mercychinenyennabude/
-  
+
+---
+
 *“Data is powerful — but only when it’s understood, trusted, and used responsibly.”*  
